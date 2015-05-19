@@ -97,6 +97,10 @@ body {
 }
 
 
+.news-column {
+  min-width: 320px;
+}
+
 /* Featurettes
 ------------------------- */
 
