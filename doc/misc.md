@@ -61,36 +61,14 @@ project](http://editorconfig.org/).
 
 ## Server Configuration
 
-H5BP includes a [`.htaccess`](#htaccess) file for the Apache HTTP server. If you are not using
-Apache as your web server, then you are encouraged to download a
-[server configuration](https://github.com/h5bp/server-configs) that corresponds
-to your web server and environment.
+H5BP includes a [`.htaccess`](#htaccess) file for the [Apache HTTP
+server](https://httpd.apache.org/docs/). If you are not using Apache
+as your web server, then you are encouraged to download a
+[server configuration](https://github.com/h5bp/server-configs) that
+corresponds to your web server and environment.
 
-
-### Servers and Stacks
-
-A comprehensive list of web servers and stacks are beyond the scope of this
-documentation, but some common ones include:
-
-* [Apache HTTP Server](https://httpd.apache.org/docs/trunk/getting-started.html)
- * [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29)
-(Linux, Apache, MySQL, and PHP).
-Other variants include [MAMP](https://www.mamp.info/en/index.html),
-[WAMP](http://www.wampserver.com/en/),
-or [XAMPP](https://www.apachefriends.org/index.html).
- * LAPP uses PostgreSQL instead of MySQL
-* [Nginx](http://wiki.nginx.org/GettingStarted)
- * [LEMP](http://www.chrisjohnston.org/ubuntu-tutorials/setting-up-a-lemp-stack-ubuntu-904)
-is similar to the LAMP stack but uses Nginx
-* [IIS](https://en.wikipedia.org/wiki/Internet_Information_Services)
- * [ASP.NET](https://www.asp.net/get-started)
-* [MEAN](http://mean.io/) (MongoDB, Express, AngularJS, Node.js)
-
-
-### .htaccess
-
-A `.htaccess` (hypertext access) file is a
-[Apache HTTP server configuration file](https://github.com/h5bp/server-configs-apache).
+A `.htaccess` (hypertext access) file is a [Apache HTTP server
+configuration file](https://github.com/h5bp/server-configs-apache).
 The `.htaccess` file is mostly used for:
 
 * Rewriting URLs
@@ -127,8 +105,10 @@ In the repo the `.htaccess` is used for:
 When using `.htaccess` we recommend reading all inline comments (the rules after
 a `#`) in the file once. There is a bunch of optional stuff in it.
 
-If you want to know more about the `.htaccess` file check out
-https://httpd.apache.org/docs/current/howto/htaccess.html.
+If you want to know more about the `.htaccess` file check out the
+[Apache HTTP server docs](https://httpd.apache.org/docs/) or more
+specifically the [htaccess
+section](https://httpd.apache.org/docs/current/howto/htaccess.html).
 
 Notice that the original repo for the `.htaccess` file is [this
 one](https://github.com/h5bp/server-configs-apache).

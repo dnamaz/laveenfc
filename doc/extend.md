@@ -87,7 +87,7 @@ your site, for example) then you can queue up a domain name to be prefetched.
 
 ```html
 <link rel="dns-prefetch" href="//example.com">
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="https://ajax.googleapis.com">
 ```
 
 You can use as many of these as you need, but it's best if they are all
@@ -107,7 +107,7 @@ Amazon S3:
 Google APIs:
 
 ```html
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="https://ajax.googleapis.com">
 ```
 
 Microsoft Ajax Content Delivery Network:
@@ -356,7 +356,7 @@ value is boolean rather than a color. It's all or nothing.
 ```
 
 You can read about this useful element and more techniques in
-[Microsoft's documentation on adapting WebKit-oriented apps for IE10](http://blogs.windows.com/buildingapps/2012/11/15/adapting-your-webkit-optimized-site-for-internet-explorer-10/)
+[Microsoft's documentation on adapting WebKit-oriented apps for IE10](https://blogs.windows.com/buildingapps/2012/11/15/adapting-your-webkit-optimized-site-for-internet-explorer-10/)
 
 ## Search
 

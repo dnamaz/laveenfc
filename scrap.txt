@@ -1,0 +1,46 @@
+        <!-- 
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">            
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>We're Laveen FC</h1>
+                            <p>Our goal is simple, we want to provide a low cost alterntative to club soccer. Check us out!</p>
+                            <p><a class="btn btn-lg btn-primary" href="about.html" role="button">More Info</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>2015-2016 Tryouts</h1>
+                            <p>We're new and we're growing. Come check us out during tryout week and see what we have to offer. Tryouts will be for U13 and U14 boys and girls on May 27th, 28th and 30th.</p>
+                            <p><a class="btn btn-lg btn-primary" href="tryouts.html" role="button">View More</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Coaches and Referees</h1>
+                            <p>Laveen FC is looking for coaches and referees for the 2015-2016 season. The season runs from August 1st, 2015 to April 30th, 2016. </p>
+                            <p><a class="btn btn-lg btn-primary" href="coaches_corner.html" role="button">Details</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+            </a>
+        </div>
+        -->
